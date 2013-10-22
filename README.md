@@ -1,6 +1,6 @@
 ## Tässä kansiossa: kaikki tarpeellinen matkailijoiden vierailukokemuksen personalisoimiseksi
 
-Tämä on Apps4Finland-kilpailun _Henkilökohtainen turismi_ -haastetta varten koottu tukipaketti. 
+Tämä on Apps4Finland-kilpailun _Turistin kaupunki_ -haastetta varten koottu tukipaketti. 
 
 ## Haaste sinulle
 
